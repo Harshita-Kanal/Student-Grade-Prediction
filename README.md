@@ -2,10 +2,10 @@
 We have performed a set of regression and classification tasks on the dataset to predict the grades of students in secondary school subjects based on a number of academic and demographic factors.
 
 ## Problem Statement
-The *__Student Grade Prediction__* project uses Machine learning algorithm to perform classification and regression tasks on student grades and predict student performance in cumulative assessments. This can be used to perform a detailed analysis of student performance and based on the results of the analysis, appropriate steps can be taken to improve the odds around ensuring better perfomance of students in academics.
+The *__Student Grade Prediction__* project uses Machine learning algorithms to perform classification and regression tasks on student grades, other socio-economic factors and predict student performance in cumulative assessments. This can be used to perform a detailed analysis of student performance and based on the results of the analysis, appropriate steps can be taken to improve the odds around ensuring better perfomance of students in academics.
 
 ## About Dataset
-This dataset contains student details. The data attributes include student grades, demographic, social and school related features) and it was collected by using school reports and questionnaires. Two datasets are merged containing the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por). The two datasets were modelled under binary/five-level classification and regression tasks. 
+The dataset contains student details. The data attributes include student grades, demographic, social and school related features) and it was collected by using school reports and questionnaires. Two datasets are merged containing the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por). The two datasets were modelled under binary/five-level classification and regression tasks. 
 
 Source of Dataset: *__Kaggle__*
 
